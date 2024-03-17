@@ -1,0 +1,86 @@
+td {
+  color: red;
+}
+i {
+  color: blueviolet;
+}
+h1 {
+  color: hsl(86, 88%, 3%);
+  font-weight: 900;
+  font: size 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.start-text {
+  color: navy;
+  text-decoration: none;
+}
+.start-text:hover {
+  cursor: pointer;
+}
+#VIP {
+  color: #fd0f0f;
+  font-size: 50px;
+ 
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 700;
+}
+
+#VIP:hover {
+  cursor: pointer;
+}
+
+.ТГ:hover {
+  color: gold;
+  text-decoration: underline;
+}
+.ТГ1 {
+  color: green;
+  text-decoration: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.ТГ2:visited {
+  text-decoration: line-through;
+  color: red;
+}
+input {
+  color: blue;
+}
+input:focus {
+  color: red;
+}
+.start-text {
+  color: #640000;
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input:read-only {
+  color: green;
+}
+
+body {
+  background: hsl(323, 67%, 83%);
+  background-image: url(../img/фон.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+table {
+  background-color: whitesmoke;
+}
+p{
+  font-size: 40px !important;
+}
+form {
+  font-size: 1.7em !important;
+}
+#block{
+  font-size: 40px!important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(50, 9, 146);
+  background-color: bisque;
+  height: 15vh !important;
+  width: 900px;
+  border: 10px solid silver;
+}
